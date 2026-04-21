@@ -1,5 +1,5 @@
 # weathering
-Spectral data for weathered for:
+FTIR spectral data of weathered:
 
 PS (31.X, 38.X, 45.X, 52.X), 
 PET (32.X, 39.X, 46.X, 53.X), and 
