@@ -1,5 +1,5 @@
 # weathering
-FTIR spectral data for 
+Spectral data for 
 
 PS (31.X - Air, 38.X - DI, 45.X - AS, 52.X - PSS), 
 PET (32.X - Air, 39.X - DI, 46.X -  AS, 53.X - PSS), and 
